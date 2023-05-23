@@ -62,3 +62,38 @@ header {
     color: #b5b5b5;
     margin-block-end: 70px;
 }
+/*Aca van los estilos del main*/
+main {
+    padding: 100px;
+}
+main .social-icons {
+    display: flex;
+    justify-content: center;
+    margin-block-start: 40px;
+    list-style: none;
+}
+main .social-icons li {
+    margin-inline-start: 12px;
+}
+main .social-icons .social-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: red;
+    padding: 15px;
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+}
+main .social-icons .linkedin {
+    background-color: #0a66c2;
+}
+main .social-icons .github {
+    background-color: #161b22;
+}
+main .social-icons .platzi {
+    background-color: #121f3d;
+}
+main .social-icons .twitter {
+    background-color: #1d9bf0;
+}
