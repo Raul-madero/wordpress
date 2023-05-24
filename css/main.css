@@ -1,3 +1,13 @@
+:root {
+    --primary-color: #E57C23;
+    --secondary-color: #005247;
+    --light-color: #C4FCF1;
+    --pale-green: #4C8077;
+    --pale-dark: #800DDE;
+    --light: #FFFDF2;
+    --dark: #291C09;
+    --light-grey: #E6EDFF;
+}
 * {
     box-sizing: border-box;
     margin: 0;
